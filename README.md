@@ -37,6 +37,6 @@ pip install -r requirements.txt
 
 3.Run the code
 ```bash
-python K.py
+python final_code.py
 ```
 
